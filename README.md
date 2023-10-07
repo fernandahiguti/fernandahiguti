@@ -10,8 +10,6 @@ Hi, there! Here you can explore my past projects and keep up with what I'm curre
 
 
 ### Skills
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00B259)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=993399)
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodejs&logoColor=00B259)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=993399)
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=00B259)
@@ -19,11 +17,6 @@ Hi, there! Here you can explore my past projects and keep up with what I'm curre
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00B259)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=993399)](https://docs.github.com/)
 
-
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django&logoColor=993399)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=00B259)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=993399)
-![Springboot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=springboot&logoColor=00B259)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=993399)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=00B259)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=993399)
