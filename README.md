@@ -1,9 +1,8 @@
 # Fernanda Higuti
-Hi, there! Here you can explore my past projects and keep up with what I'm currently developing.
+Hi, there! 
 
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandahiguti&theme=transparent&bg_color=000&border_color=00B259&show_icons=true&icon_color=00B259&title_color=993399&text_color=FFF&include_all_commits=true&count_private=true&hide_rank=true"/>
+<div align="left">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandahiguti&layout=compact&bg_color=000&border_color=00B259&title_color=993399&text_color=FFF"/>
 <br>
 </div>
